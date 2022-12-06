@@ -59,7 +59,7 @@ a {
     gap: 20px 4px;
     overflow: hidden;
     height: 200px;
-    background-image: url(https://github.com/DollyA-bit/Challenge2-Portfolio/blob/bb58be06c83559e333fee4a2cdaf549ca59d0157/images/02-hero-bg.jpg); 
+    background-image: url(images/02-hero-bg.jpg; 
     background-size:cover;
     background-color: rgba(88, 88, 244, 0.5);
     flex-direction: row-reverse;
